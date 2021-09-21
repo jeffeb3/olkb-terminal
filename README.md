@@ -37,8 +37,8 @@ I used the [Ziro Carbon Fiber PLA Filament](https://amzn.to/39prwRQ).
 
 | Part Name                     | Qty  | X size (mm)   | Y size (mm)   |
 | ----------------------------- | ---- | ------------- | ------------- |
-| Screen Front                  | 1    |               |               |
-| Screen Rear                   | 1    |               |               |
+| Screen Front                  | 1    | 214           | 133           |
+| Screen Rear                   | 1    | 214           | 133           |
 | Void30 Base Plate             | 1    |               |               |
 | Rear Base Plate               | 1    |               |               |
 | Pi Plate                      | 1    |               |               |
