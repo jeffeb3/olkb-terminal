@@ -39,14 +39,14 @@ I used the [Ziro Carbon Fiber PLA Filament](https://amzn.to/39prwRQ).
 | ----------------------------- | ---- | ------------- | ------------- |
 | Screen Front                  | 1    | 214           | 133           |
 | Screen Rear                   | 1    | 214           | 133           |
-| Void30 Base Plate             | 1    |               |               |
-| Rear Base Plate               | 1    |               |               |
-| Pi Plate                      | 1    |               |               |
-| 5x1 Front Acc Panel           | 1    |               |               |
-| Small Front Acc Blank Panel   | 1    |               |               |
-| Rear Large Blank Panel        | 1    |               |               |
-| Rear Small Blank Panel        | 2    |               |               |
-| Fan Offsets (optional)        | 2    |               |               |
+| Void30 Base Plate             | 1    | 207           | 111           |
+| Rear Base Plate               | 1    | 211           | 139           |
+| Pi Plate                      | 1    | 106           | 74            |
+| 5x1 Front Acc Panel           | 1    | 119           | 22            |
+| Small Front Acc Blank Panel   | 1    | 120           | 16            |
+| Rear Large Blank Panel        | 1    | 116           | 107           |
+| Rear Small Blank Panel        | 2    | 107           | 27            |
+| Fan Offsets (optional)        | 2    | 10            | 10            |
 
 These parts are licensed CC-BY-NC. That means you can't charge for them, and you can't send them to
 a shop that charges for prints.
