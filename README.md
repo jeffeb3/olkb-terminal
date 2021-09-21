@@ -1,9 +1,18 @@
-#olkb - terminal
+# OLKB-Terminal
 
 Terminal with builtin ortholinear keyboard and touch screen as a home automation interface.
 
-## Images
+## Features
 
+![olkb-terminal](media/image1.jpg)
+![olkb-terminal](media/image2.jpg)
+![olkb-terminal](media/image3.jpg)
+![olkb-terminal](media/image4.jpg)
+![olkb-terminal](media/image5.jpg)
+![olkb-terminal](media/image6.jpg)
+![olkb-terminal](media/image7.jpg)
+![olkb-terminal](media/image8.jpg)
+![olkb-terminal](media/image9.jpg)
 
 ## Bill of Materials (BOM)
 
