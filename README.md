@@ -48,8 +48,8 @@ I used the [Ziro Carbon Fiber PLA Filament](https://amzn.to/39prwRQ).
 | Rear Small Blank Panel        | 2    | 107           | 27            | [STL](models/stl/RearSmallBlankPanelV1.stl)     |
 | Fan Holder (optional)         | 2    | 10            | 10            | [STL](models/stl/FanHolderV1.stl)               |
 
-These parts are licensed CC-BY-NC. That means you can't charge for them, and you can't send .stl)
-a shop that charges for prints.
+These parts are licensed CC-BY-NC. That means you can't charge for them, and you can't send .stl
+to a shop that charges for prints.
 
 I have designed these to be as easy to print as possible, but if you really want to buy a printed
 set, contact me and I'll see what solutions we can find.
