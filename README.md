@@ -18,7 +18,7 @@ Terminal with builtin ortholinear keyboard and touch screen as a home automation
 
 ![olkb-terminal](media/image4.jpg)
 
-- void30 ortho linear key board running qmk open source firmware.
+- [Void30 ortho linear key board](https://github.com/victorlucachi/void30) running qmk open source firmware.
 
 ![olkb-terminal](media/image5.jpg)
 ![olkb-terminal](media/image6.jpg)
