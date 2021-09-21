@@ -35,20 +35,20 @@ them. That's all part of the fun.
 
 I used the [Ziro Carbon Fiber PLA Filament](https://amzn.to/39prwRQ).
 
-| Part Name                     | Qty  | X size (mm)   | Y size (mm)   |
-| ----------------------------- | ---- | ------------- | ------------- |
-| Screen Front                  | 1    | 214           | 133           |
-| Screen Rear                   | 1    | 214           | 133           |
-| Void30 Base Plate             | 1    | 207           | 111           |
-| Rear Base Plate               | 1    | 211           | 139           |
-| Pi Plate                      | 1    | 106           | 74            |
-| 5x1 Front Acc Panel           | 1    | 119           | 22            |
-| Small Front Acc Blank Panel   | 1    | 120           | 16            |
-| Rear Large Blank Panel        | 1    | 116           | 107           |
-| Rear Small Blank Panel        | 2    | 107           | 27            |
-| Fan Offsets (optional)        | 2    | 10            | 10            |
+| Part Name                     | Qty  | X size (mm)   | Y size (mm)   | STL                                            |
+| ----------------------------- | ---- | ------------- | ------------- | -----                                          |
+| Screen Front                  | 1    | 214           | 133           | [STL](models/stl/ScreenFrontV1.stl)            |
+| Screen Rear                   | 1    | 214           | 133           | [STL](models/stl/ScreenRearV1.stl)             |
+| Void30 Base Plate             | 1    | 207           | 111           | [STL](models/stl/Void30BasePlateV1.stl)        |
+| Rear Base Plate               | 1    | 211           | 139           | [STL](models/stl/RearBasePlateV1.stl)          |
+| Pi Plate                      | 1    | 106           | 74            | [STL](models/stl/PiPlateV1.stl)                |
+| 5x1 Front Acc Panel           | 1    | 119           | 22            | [STL](models/stl/5x1FrontAccPanelV1.stl)       |
+| Small Front Acc Blank Panel   | 1    | 120           | 16            | [STL](models/stl/SmallFromAccBlankPanelV1.stl) |
+| Rear Large Blank Panel        | 1    | 116           | 107           | [STL](models/stl/RearLargeBlankPanelV1.stl)    |
+| Rear Small Blank Panel        | 2    | 107           | 27            | [STL](models/stl/RearSmallBlankPanelV1.stl)    |
+| Fan Offsets (optional)        | 2    | 10            | 10            | [STL](models/stl/FanOffsetsV1.stl)             |
 
-These parts are licensed CC-BY-NC. That means you can't charge for them, and you can't send them to
+These parts are licensed CC-BY-NC. That means you can't charge for them, and you can't send .stl)
 a shop that charges for prints.
 
 I have designed these to be as easy to print as possible, but if you really want to buy a printed
