@@ -4,10 +4,22 @@ Terminal with builtin ortholinear keyboard and touch screen as a home automation
 
 ## Features
 
+- Step and STLs available for non-commercial use.
+- 7" Touch Screen
+- Raspberry pi 4
+- Home assistant loads in kiosk mode.
+- 5x1 buttons to interact directly with home assistant with physical buttons
+ 
 ![olkb-terminal](media/image1.jpg)
 ![olkb-terminal](media/image2.jpg)
 ![olkb-terminal](media/image3.jpg)
+
+- Customizable panels for the front, 3 in the back and a grid for custom attachments.
+
 ![olkb-terminal](media/image4.jpg)
+
+- void30 ortho linear key board running qmk open source firmware.
+
 ![olkb-terminal](media/image5.jpg)
 ![olkb-terminal](media/image6.jpg)
 ![olkb-terminal](media/image7.jpg)
@@ -116,7 +128,7 @@ Until then, these are some of the key parts I used to get the software/OS side w
     `xset s noblank`
     `xset s off`
     `xset -dpms`
-6. [Set up the `buttons.py`](buttons.md)
+6. [Set up the `buttons.py`](buttons/)
 
 ## Connected Projects
 
