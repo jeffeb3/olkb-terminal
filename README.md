@@ -115,6 +115,7 @@ You should have enough leftovers from the Void30 build. Except for the Dupont co
 ## Scripts/Setup
 
 I have a very peculiar raspberry pi setup. If this project takes off, I would consider making a custom image for it.
+But this can be accomplished with a regular raspian setup.
 
 Until then, these are some of the key parts I used to get the software/OS side working:
 
@@ -144,7 +145,7 @@ Of course, raspberry pi, Linux, and a thousand projects related to getting a com
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This version of this project is based off of the Void30 project by @victorlucachi. That project, and
+This version of this project Has shapes and measurements based off of the Void30 project by @victorlucachi. That project, and
 this one are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
