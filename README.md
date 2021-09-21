@@ -23,7 +23,6 @@ Terminal with builtin ortholinear keyboard and touch screen as a home automation
 ![olkb-terminal](media/image5.jpg)
 ![olkb-terminal](media/image6.jpg)
 ![olkb-terminal](media/image7.jpg)
-![olkb-terminal](media/image8.jpg)
 ![olkb-terminal](media/image9.jpg)
 
 ## Bill of Materials (BOM)
